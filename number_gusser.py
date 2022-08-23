@@ -1,4 +1,4 @@
-print("Python is configured")
+print("Python is configured2")
 
 import random
 
